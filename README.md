@@ -5,10 +5,13 @@ TurboModsLoader is a file in .project3 format that is licensed under MIT &amp; L
 
 # Notes & Credits:
 
+Licenses are here:
+
+https://github.com/Stormwindsky/TurboModsLoader/blob/main/LICENSE%20LGPL-3.0
+
+https://github.com/Stormwindsky/TurboModsLoader/blob/main/LICENSE%20MIT
+
 Made by Stormwindsky
-
-
-Notes & Credits:
 
 Thx to LilyMakesThings & Mio for created the extension Asset Manager
 
